@@ -1,14 +1,14 @@
 # oracle-ping-test
 
-A simple tool test local latency to the major oracle region
+A simple tool test latency from your local computer to the major oracle region.
 
 # **Usage**
 
 1.Run the command;
 
-2.Wait till all node ping test is finished;
+2.Wait till all node ping test finished;
 
-3.Press number to display ping detail on region basis(Asia, Oceania, North America, Europe, Mideast, South America) in terminal, or just check the txt file located in the script.
+3.Press number to display ping detail on region basis(Asia, Oceania, North America, Europe, Mideast, South America) in terminal, or just check the txt file in the script location.
 
 Have fun!
 
