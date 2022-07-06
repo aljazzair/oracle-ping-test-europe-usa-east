@@ -155,6 +155,6 @@ echo.
 echo.
 echo.
 echo===========================================================================
-echo Result are listed before successfully, press "1" to reselect the Node, or close the application on your will.
+echo Result are listed before, press "1" to reselect the Node, or close the application on your will.
 pause
 goto menu
