@@ -143,7 +143,7 @@ echo 4. EUROPE Node
 echo 5. MIDEAST Node
 echo 6. SOUTHAMERICA Node
 echo 7. See all result
-set /p choice="Please input："
+set /p choice="Please input:"
 if "%choice%"=="1" type asia.txt
 if "%choice%"=="2" type oceania.txt
 if "%choice%"=="3" type america.txt
