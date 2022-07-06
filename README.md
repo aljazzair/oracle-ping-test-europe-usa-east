@@ -1,5 +1,9 @@
 # oracle-ping-test
-Usage
+
+A simple tool test local latency to the major oracle region
+
+# **Usage**
+
 1.Run the command;
 
 2.Wait till all node ping test is finished;
@@ -8,7 +12,9 @@ Usage
 
 Have fun!
 
-Node list:
+
+
+# **Node list**
 
 **[Asia]**
 
