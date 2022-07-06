@@ -10,7 +10,7 @@ Have fun!
 
 Node list:
 
-[Asia]
+**[Asia]**
 
 ·Tokyo,Japan: objectstorage.ap-tokyo-1.oraclecloud.com
 
@@ -27,13 +27,13 @@ Node list:
 ·Hyderabad,India:objectstorage.ap-hyderabad-1.oraclecloud.com
 
 
-[Oceania]
+**[Oceania]**
 
 ·Sydney,Australia: objectstorage.ap-sydney-1.oraclecloud.com
 
 ·Melbourne,Australia: objectstorage.ap-melbourne-1.oraclecloud.com
 
-[North America]
+**[North America]**
 
 ·Ashburn,Virginia,US: objectstorage.us-ashburn-1.oraclecloud.com
 
@@ -46,7 +46,7 @@ Node list:
 ·Toronto,Canada: objectstorage.ca-toronto-1.oraclecloud.com
 
 
-[Europe]
+**[Europe]**
 
 ·London,UK: objectstorage.uk-london-1.oraclecloud.com
 
@@ -59,14 +59,14 @@ Node list:
 ·Amsterdam,Netherlands: objectstorage.eu-amsterdam-1.oraclecloud.com
 
 
-[Mideast]
+**[Mideast]**
 
 ·Dubai,UAF: objectstorage.me-dubai-1.oraclecloud.com
 
 ·Jeddah,Saudi Arabia: objectstorage.me-jeddah-1.oraclecloud.com
 
 
-[South America]
+**[South America]**
 
 ·Saopaulo,Brazil: objectstorage.sa-saopaulo-1.oraclecloud.com
 
