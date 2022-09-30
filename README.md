@@ -1,6 +1,6 @@
 # oracle-ping-test
 
-A simple tool test latency from your local computer to the major oracle region.
+A simple tool test latency from your local computer to servers located in europe and eastern US/Canada oracle regions.
 
 # **Usage**
 
