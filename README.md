@@ -8,7 +8,7 @@ A simple tool test latency from your local computer to servers located in europe
 
 2.Wait till all node ping test finished;
 
-3.Press number to display ping detail on region basis(Asia, Oceania, North America, Europe, Mideast, South America) in terminal, or just check the txt file in the script location.
+3.Press number to display ping detail on region basis(North America, Europe) in terminal, or just check the txt file in the script location.
 
 Have fun!
 
